@@ -20,9 +20,9 @@ Aplikasi **Profil Mahasiswa** adalah aplikasi Android berbasis **Jetpack Compose
 
 | Feature | Screenshot (Light Mode) | Screenshot (Dark Mode) | Deskripsi |
 |---------|-------------------------|-------------------------|-----------|
-| **Profile Screen** | <img src="screenshots/profile_light.png" width="300"> | <img src="screenshots/profile_dark.png" width="300"> | Halaman utama yang menampilkan foto, info kontak, dan statistik akademik. |
-| **Edit Profile** | <img src="screenshots/edit_light.png" width="300"> | <img src="screenshots/edit_dark.png" width="300"> | Form untuk mengubah data NIM, Email, Telepon, dll secara real-time. |
-| **Data Nilai** | <img src="screenshots/stats_light.png" width="300"> | <img src="screenshots/stats_dark.png" width="300"> | Tampilan ringkasan akademik dan daftar mata kuliah dengan card yang diperjelas. |
+| **Profile Screen** | <img src="screenshots/profile_light.jpg" width="300"> | <img src="screenshots/profile_dark.jpg" width="300"> | Halaman utama yang menampilkan foto, info kontak, dan statistik akademik. |
+| **Edit Profile** | <img src="screenshots/edit_light.jpg" width="300"> | <img src="screenshots/edit_dark.jpg" width="300"> | Form untuk mengubah data NIM, Email, Telepon, dll secara real-time. |
+| **Data Nilai** | <img src="screenshots/stats_light.jpg" width="300"> | <img src="screenshots/stats_dark.jpg" width="300"> | Tampilan ringkasan akademik dan daftar mata kuliah dengan card yang diperjelas. |
 
 ---
 
